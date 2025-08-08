@@ -1,2 +1,2 @@
 print('Sunai Kumar')
-print('hi how are you')
+print('hi how you')
